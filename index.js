@@ -17,7 +17,7 @@ function askBirthday() {
 	const dob = readlineSync.question(
 		chalk.green(
 			'\n Please enter your birthday' +
-				chalk.white.bold(' only in DD/MM format: ')
+				chalk.white.bold(' only in DD/MM format:')
 		)
 	);
 	const dobNumber = Number(dob.replace('/', ''));
