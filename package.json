@@ -4,6 +4,7 @@
   "description": "A simple prime number nodejs-cli where it tells whether your birthday is prime number or not !",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
