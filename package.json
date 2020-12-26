@@ -1,0 +1,28 @@
+{
+  "name": "prime-number-cli",
+  "version": "1.0.0",
+  "description": "A simple prime number nodejs-cli where it tells whether your birthday is prime number or not !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saratkumar17mss040/Prime-number-cli.git"
+  },
+  "keywords": [
+    "prime",
+    "number",
+    "nodejs-cli"
+  ],
+  "author": "sarath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saratkumar17mss040/Prime-number-cli/issues"
+  },
+  "homepage": "https://github.com/saratkumar17mss040/Prime-number-cli#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
