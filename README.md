@@ -5,4 +5,6 @@ A simple prime number nodejs-cli where it tells whether your birthday is prime n
 
 ## You can add your opinions and suggestions here which will be very helpful for me
 
+https://repl.it/talk/share/Birthday-prim-number-cli/111907
+
 
