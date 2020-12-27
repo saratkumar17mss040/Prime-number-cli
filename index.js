@@ -69,7 +69,11 @@ function checkPrime(dobNumber) {
 		}
 		return chalk.red(`\n ${name} your birthday ${date} is a prime number !`);
 	} else {
-		log(chalk.red('\n Please enter a valid day or month format !'));
+		log(
+			chalk.red(
+				'\n Please enter a valid day or month or make sure the format is correct !'
+			)
+		);
 		askBirthday();
 	}
 }
